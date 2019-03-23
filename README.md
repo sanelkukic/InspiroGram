@@ -4,7 +4,9 @@ Like [InspiroCord](https://github.com/xDrixxyz/InspiroCord) but posts to Instagr
 
 ## Setup Instructions
 
-Git clone, copy the `config.example.json` file to `config.json` and fill in the blanks with your Instagram username and password and save it.
+**You need to have Git installed**. [Click here](https://lmgtfy.com/?q=how+to+install+git) to learn how to install it.
+
+Git clone, install requirements using `pip3 install -r requirements.txt`, copy the `config.example.json` file to `config.json` and fill in the blanks with your Instagram username and password and save it.
 
 You can also add a text to post with the image (caption under the image) in `config.json` or leave it empty.
 
